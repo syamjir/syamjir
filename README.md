@@ -1,7 +1,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=rsyamjir&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-
 # 💫 About Me:
 <h1 align="center">
   <a href="https://git.io/typing-svg">
