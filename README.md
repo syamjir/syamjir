@@ -1,5 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=rsyamjir&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rsyamjir&title=Profile%20Views)](https://hits.seeyoufarm.com)
+
 
 # 💫 About Me:
 <h1 align="center">
