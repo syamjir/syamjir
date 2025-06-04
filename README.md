@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00FF00&width=500&lines=Hi+I'm+syamji;Thank+you+for+stopping+by+%F0%9F%91%8B">
   </a>
 </h1>
-🎯 Full Stack Web Developer with a knack for problem-solving using the MEAN stack.<br>🌱 Lifelong learner, inspired by cutting-edge technology and innovative design.
+🎯 Full Stack Web Developer with a knack for problem-solving using the MERN stack.<br>🌱 Lifelong learner, inspired by cutting-edge technology and innovative design.
 
 
 
