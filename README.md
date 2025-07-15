@@ -19,6 +19,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=syamjir&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syamjir&theme=default_repocard&hide_border=false)<br/>
 
+## 📦 My NPM Packages
+
+### 🧮 [fraction-utils](https://www.npmjs.com/package/fraction-utils)
+A utility library for converting and simplifying fractions.
+
+[![npm version](https://img.shields.io/npm/v/fraction-utils?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/fraction-utils)
+[![npm downloads](https://img.shields.io/npm/dt/fraction-utils?style=flat-square)](https://www.npmjs.com/package/fraction-utils)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamjir&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
