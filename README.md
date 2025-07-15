@@ -24,6 +24,13 @@ A utility library for converting and simplifying fractions.
 [![npm version](https://img.shields.io/npm/v/fraction-utils?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/fraction-utils)
 [![npm downloads](https://img.shields.io/npm/dt/fraction-utils?style=flat-square)](https://www.npmjs.com/package/fraction-utils)
 
+### 🌍 [country-code-flag-emojis](https://www.npmjs.com/package/country-code-flag-emojis)
+Convert ISO 3166-1 alpha-2 country codes to flag emojis easily.
+
+[![npm version](https://img.shields.io/npm/v/country-code-flag-emojis?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/country-code-flag-emojis)
+[![npm downloads](https://img.shields.io/npm/dt/country-code-flag-emojis?style=flat-square)](https://www.npmjs.com/package/country-code-flag-emojis)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syamjir&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syamjir&theme=default_repocard&hide_border=false)<br/>
