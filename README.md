@@ -29,6 +29,12 @@ Convert ISO 3166-1 alpha-2 country codes to flag emojis easily.
 [![npm version](https://img.shields.io/npm/v/country-code-flag-emojis?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/country-code-flag-emojis)
 [![npm downloads](https://img.shields.io/npm/dt/country-code-flag-emojis?style=flat-square)](https://www.npmjs.com/package/country-code-flag-emojis)
 
+### 🛡️ [nmap-scan-cli](https://www.npmjs.com/package/nmap-scan-cli)
+A simple CLI tool to run Nmap scans (-sV,-O) directly from your terminal and save results to a text file.
+
+[![npm version](https://img.shields.io/npm/v/nmap-scan-cli?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/nmap-scan-cli)
+[![npm downloads](https://img.shields.io/npm/dt/nmap-scan-cli?style=flat-square)](https://www.npmjs.com/package/nmap-scan-cli)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syamjir&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
