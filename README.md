@@ -40,7 +40,9 @@ A simple CLI tool to run Nmap scans (-sV,-O) directly from your terminal and sav
 ![](https://github-readme-stats.vercel.app/api?username=syamjir&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syamjir&theme=default_repocard&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamjir&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamjir&layout=compact&hide=Robotframwork&langs_count=10&theme=light&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syamjir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
