@@ -35,6 +35,12 @@ A simple CLI tool to run Nmap scans (-sV,-O) directly from your terminal and sav
 [![npm version](https://img.shields.io/npm/v/nmap-scan-cli?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/nmap-scan-cli)
 [![npm downloads](https://img.shields.io/npm/dt/nmap-scan-cli?style=flat-square)](https://www.npmjs.com/package/nmap-scan-cli)
 
+### 🧰 [kali-docker-essential-tools](https://www.npmjs.com/package/kali-docker-essential-tools)
+CLI tool to display and install essential Kali Linux packages in Docker or Debian-based environments.
+
+[![npm version](https://img.shields.io/npm/v/kali-docker-essential-tools?color=CB3837&logo=npm&style=flat-square)](https://www.npmjs.com/package/kali-docker-essential-tools)
+[![npm downloads](https://img.shields.io/npm/dt/kali-docker-essential-tools?style=flat-square)](https://www.npmjs.com/package/kali-docker-essential-tools)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syamjir&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
